@@ -1,79 +1,90 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Evgeniy%20Anisimov&fontAlign=50&fontAlignY=40&desc=DevOps%20%2F%20Linux%20Engineer%20%7C%20Kubernetes%20%7C%20HA%20Infrastructure%20%7C%20AI%20Engineering&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Evgeniy%20Anisimov&fontAlign=50&fontAlignY=40&desc=Platform%20Engineering%20%7C%20Kubernetes%20%7C%20GitOps%20%7C%20Infrastructure&descAlign=50&descAlignY=60" alt="Evgeniy Anisimov — Platform Engineering, Kubernetes, GitOps and Infrastructure" />
 </p>
 
 <!-- Contacts -->
 <p align="center">
-  <a href="https://t.me/anisimov_es"><img src="https://img.shields.io/badge/Telegram-@anisimov__es-111?style=for-the-badge&logo=telegram"></a>
-  <a href="mailto:anisimov.evgeniy.s@gmail.com"><img src="https://img.shields.io/badge/Email-anisimov.evgeniy.s@gmail.com-111?style=for-the-badge&logo=gmail"></a>
+  <a href="https://t.me/anisimov_es"><img src="https://img.shields.io/badge/Telegram-@anisimov__es-111?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+  <a href="mailto:anisimov.evgeniy.s@gmail.com"><img src="https://img.shields.io/badge/Email-anisimov.evgeniy.s@gmail.com-111?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<h2 align="center">Привет, я Евгений 👋</h2>
+<h2 align="center">Hi, I'm Evgeniy 👋</h2>
 
 <p align="center">
-DevOps / Linux Engineer из Санкт-Петербурга.  
-7+ лет в инфраструктуре: от bare-metal и сетей до Kubernetes, CI/CD и AI-платформ.
+Platform and infrastructure engineer based in Belgrade.<br />
+I build and operate Kubernetes platforms, delivery systems, and reliable infrastructure.
 </p>
 
 ---
 
-## 🚀 Чем я занимаюсь
-- Проектирую **отказоустойчивые и масштабируемые** инфраструктуры (bare-metal, virtualization, Kubernetes)
-- Строю **CI/CD и delivery pipelines** с фокусом на скорость и надёжность
-- Внедряю **observability**: метрики, логи, алерты, SLO
-- Оптимизирую **базы данных и legacy-сервисы**
-- Развиваю **AI-инфраструктуру**: GPU-серверы, LLM, OCR, CV-модели
+## Platform engineering
 
----
+I work on the platform capabilities that help engineering teams ship and operate software with less friction. My focus is on making infrastructure consistent, observable, and maintainable while keeping the day-to-day developer experience straightforward.
 
-## 🧰 Технологический стек
+- **Kubernetes platforms:** multi-cluster operations, workload lifecycle, tenant boundaries, ingress, storage, and cluster add-ons.
+- **Self-service and paved paths:** reusable Helm charts and GitOps patterns that make common application delivery tasks predictable.
+- **Infrastructure as code and GitOps:** declarative configuration, reviewable change, and automated reconciliation with Argo CD.
+- **Security and access:** identity integration, secrets delivery, network controls, and least-privilege access patterns.
+- **Reliability and operations:** monitoring, logging, incident investigation, capacity, and practical recovery procedures for stateful systems.
+- **Developer enablement:** improving deployment feedback loops and reducing the operational overhead of running services.
 
-### Infrastructure & Platform
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Proxmox](https://img.shields.io/badge/Proxmox-111?style=for-the-badge&logo=proxmox)
+I also bring hands-on experience with Linux systems, networking, virtualization, databases, and application operations, which helps me work across the full path from infrastructure to production service behavior.
+
+## Current technology stack
+
+### Kubernetes and platform
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/Helm-111?style=for-the-badge&logo=helm)
-![HAProxy](https://img.shields.io/badge/HAProxy-111?style=for-the-badge&logo=haproxy)
-![Keepalived](https://img.shields.io/badge/Keepalived-111?style=for-the-badge)
+![Argo CD](https://img.shields.io/badge/Argo_CD-111?style=for-the-badge&logo=argo)
+![Capsule](https://img.shields.io/badge/Capsule-111?style=for-the-badge)
+![Envoy Gateway](https://img.shields.io/badge/Envoy_Gateway-111?style=for-the-badge&logo=envoyproxy)
+![Cilium](https://img.shields.io/badge/Cilium-111?style=for-the-badge&logo=cilium)
 
-### CI/CD & Containers
+### Infrastructure, storage, and secrets
+
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Terraform](https://img.shields.io/badge/Terraform-111?style=for-the-badge&logo=terraform)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-111?style=for-the-badge&logo=vault)
+![Rook](https://img.shields.io/badge/Rook-111?style=for-the-badge)
+![Ceph](https://img.shields.io/badge/Ceph-111?style=for-the-badge&logo=ceph)
+![Proxmox](https://img.shields.io/badge/Proxmox-111?style=for-the-badge&logo=proxmox)
+
+### Delivery and observability
+
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-111?style=for-the-badge&logo=gitlab)
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-111?style=for-the-badge&logo=gitlab)
-
-### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-111?style=for-the-badge&logo=grafana)
-![ELK](https://img.shields.io/badge/ELK-111?style=for-the-badge&logo=elastic)
-![Zabbix](https://img.shields.io/badge/Zabbix-111?style=for-the-badge)
+![Vector](https://img.shields.io/badge/Vector-111?style=for-the-badge)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-111?style=for-the-badge&logo=opensearch)
 
-### Databases & Messaging
+### Data and messaging
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/MariaDB-111?style=for-the-badge&logo=mariadb)
-![Percona](https://img.shields.io/badge/Percona_XtraDB-111?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
+![Percona](https://img.shields.io/badge/Percona-111?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111?style=for-the-badge&logo=rabbitmq)
-![Etcd](https://img.shields.io/badge/etcd-111?style=for-the-badge&logo=etcd)
 
-### Networking & Security
-![Mikrotik](https://img.shields.io/badge/Mikrotik-111?style=for-the-badge)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-111?style=for-the-badge&logo=openvpn)
-![Wireguard](https://img.shields.io/badge/IPSec/L2TP-111?style=for-the-badge)
+### Networking and identity
 
-### AI / ML
-![GPU](https://img.shields.io/badge/GPU_Servers-111?style=for-the-badge&logo=nvidia)
-![LLM](https://img.shields.io/badge/LLM_Qwen%20%7C%20LLaMA-111?style=for-the-badge)
-![CV](https://img.shields.io/badge/Ultralytics%20%7C%20OCR-111?style=for-the-badge)
+![Envoy](https://img.shields.io/badge/Envoy-111?style=for-the-badge&logo=envoyproxy)
+![Dex](https://img.shields.io/badge/Dex-111?style=for-the-badge)
+![WireGuard](https://img.shields.io/badge/WireGuard-111?style=for-the-badge&logo=wireguard)
+![HAProxy](https://img.shields.io/badge/HAProxy-111?style=for-the-badge&logo=haproxy)
 
----
+## Additional interests
 
-## 📊 GitHub активность
+I enjoy exploring local AI infrastructure and practical machine learning workflows, including GPU workloads, local LLMs, computer vision, and OCR.
+
+## GitHub activity
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enot237&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enot237&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anisimov-es&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisimov-es&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enot237&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anisimov-es&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
